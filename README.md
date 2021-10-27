@@ -1,2 +1,2 @@
 # Rage
-Config files for my GitHub profile.
+                                                                            Welcome to my weird profile!
