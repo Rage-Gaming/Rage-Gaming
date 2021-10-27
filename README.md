@@ -1,3 +1,0 @@
-"# Rage" 
-"# Rage" 
-"# Rage" 
