@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nidhin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am FiveM Server developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-gaming&label=Profile%20views&color=0e75b6&style=flat" alt="rage-gaming" /> </p>
+
+- 🌱 I’m currently learning **Flutter**
+
+- 🤝 I’m looking for help with **FiveM ESX programmer is any one interested please contact me in the provided email**
+
+- 📫 How to reach me **nidhin12murali@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
