@@ -1,2 +1,2 @@
 # Rage
-                                                   Welcome to my weird profile!
+                                                      Welcome to my weird profile!
