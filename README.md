@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-gaming&label=Profile%20views&color=0e75b6&style=flat" alt="rage-gaming" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for help with **FiveM ESX programmer is any one interested please contact me in the provided email**
 
