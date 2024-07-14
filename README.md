@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **nidhin12murali@gmail.com**
 
+- 📫 Join my Discord **[Join](https://discord.gg/bDaYd2P9Vu)**
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rage-gaming&show_icons=true&locale=en&layout=compact" alt="rage-gaming" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rage-gaming&show_icons=true&locale=en" alt="rage-gaming" /></p>
