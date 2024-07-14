@@ -3,6 +3,8 @@
 
 <h3>Join my Discord</h3>
 <p align="left"> <a href="https://discord.gg/bDaYd2P9Vu" target="_blank"> <img src="https://ik.imagekit.io/yg4xrysan/RageGaming/Discord-logo.png" alt="discord" width="40" height="40"/> </a> <a 
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-gaming&label=Profile%20views&color=0e75b6&style=flat" alt="rage-gaming" /> </p>
 
