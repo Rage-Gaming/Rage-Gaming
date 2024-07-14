@@ -10,8 +10,6 @@
 
 - 📫 Join my Discord Server **[Join now](https://discord.gg/bDaYd2P9Vu)**
 
-- 🤝 I’m looking for help with **FiveM ESX programmer is any one interested please contact me in the provided email**
-
 - 📫 How to reach me **nidhin12murali@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rage-gaming&show_icons=true&locale=en&layout=compact" alt="rage-gaming" /></p>
