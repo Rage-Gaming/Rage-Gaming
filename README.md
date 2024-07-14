@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nidhin</h1>
 <h3 align="center">I am FiveM Server developer</h3>
 
+<h3>Join my Discord</h3>
+<p align="left"> <a href="https://discord.gg/bDaYd2P9Vu" target="_blank"> <img src="https://ik.imagekit.io/yg4xrysan/RageGaming/Discord-logo.png" alt="discord" width="40" height="40"/> </a> <a 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-gaming&label=Profile%20views&color=0e75b6&style=flat" alt="rage-gaming" /> </p>
 
 
