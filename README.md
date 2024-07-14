@@ -2,7 +2,7 @@
 <h3 align="center">I am FiveM Server developer</h3>
 
 <h3>Join my Discord</h3>
-<p align="left"> <a href="https://discord.gg/bDaYd2P9Vu" target="_blank"> <img src="https://ik.imagekit.io/yg4xrysan/RageGaming/Discord-logo.png" alt="discord" width="80" height="80"/> </a> <a 
+<p align="left"> <a href="https://discord.gg/bDaYd2P9Vu" target="_blank"> <img src="https://ik.imagekit.io/yg4xrysan/RageGaming/Discord-logo.png" alt="discord" width="100" height="80"/> </a> <a 
 <br>
 <br>
 
