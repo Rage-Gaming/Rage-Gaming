@@ -2,13 +2,13 @@
 <h3 align="center">I am FiveM Server developer</h3>
 
 <h3>Join my Discord</h3>
-<p align="left"> <a href="https://discord.gg/bDaYd2P9Vu" target="_blank"> <img src="https://ik.imagekit.io/yg4xrysan/RageGaming/Discord-logo.png" alt="discord" width="100" height="55"/> </a> <a 
+<p align="left"> <a href="https://discord.gg/dHsuQRpuYf" target="_blank"> <img src="https://ik.imagekit.io/yg4xrysan/RageGaming/Discord-logo.png" alt="discord" width="100" height="55"/> </a> <a 
 <br>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-gaming&label=Profile%20views&color=0e75b6&style=flat" alt="rage-gaming" /> </p>
 
-- 📫 Join my Discord Server **[Join now](https://discord.gg/bDaYd2P9Vu)**
+- 📫 Join my Discord Server **[Join now](https://discord.gg/dHsuQRpuYf)**
 
 - 📫 How to reach me **nidhin12murali@gmail.com**
 
