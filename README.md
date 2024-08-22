@@ -1,22 +1,72 @@
-<h1 align="center">Hi 👋, I'm Nidhin</h1>
-<h3 align="center">I am FiveM Server developer</h3>
+<!-- Header -->
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4c20bd&text=Nidhin&fontColor=fff&section=header" width="auto" />
+ </div>
 
-<h3>Join my Discord</h3>
-<p align="left"> <a href="https://discord.gg/dHsuQRpuYf" target="_blank"> <img src="https://ik.imagekit.io/yg4xrysan/RageGaming/Discord-logo.png" alt="discord" width="100" height="55"/> </a> <a 
-<br>
-<br>
+<!-- hello -->
+<!-- <div align="center">
+<img src="https://gifdb.com/images/high/hello-greetings-dance-weul6yzyvd75r5xo.gif" style="height:80% width: 100%" autoplay />
+</div> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-gaming&label=Profile%20views&color=0e75b6&style=flat" alt="rage-gaming" /> </p>
+<!-- ## <div align="center">Nidhin</div> -->
 
-- 📫 Join my Discord Server **[Join now](https://discord.gg/dHsuQRpuYf)**
+<!-- Discord Profile -->
+<p align="center"><br>
+  <a href="https://github.com/Rage-Gaming">
+    <img src="https://lanyard.cnrad.dev/api/813966990674493511"/>
+     </a>
+</p>
 
-- 📫 How to reach me **nidhin12murali@gmail.com**
+<!-- Github stats card -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rage-gaming&show_icons=true&locale=en&layout=compact" alt="rage-gaming" /></p>
+## Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rage-gaming&show_icons=true&locale=en" alt="rage-gaming" /></p>
+<div align="center">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Rage-Gaming&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" /> 
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rage-gaming&show_icons=true&locale=en&layout=compact&theme=midnight-purple" /> 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<!-- Other Stats -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rage-gaming&" alt="rage-gaming" /></p>
+## Stats
+
+<div align="center">
+<table style="border:2px dashed green" ><tr><td valign="top" width="30%"><div align="center">
+   
+### GitHub
+  
+   <a href="https://github.com/Rage-Gaming">
+     
+![Profile View Counter](https://komarev.com/ghpvc/?username=Rage-Gaming&style=for-the-badge&color=4c20bd)
+     
+  </a>
+
+</div></td><td valign="top" width="30%"><div align="center">
+  
+### YouTube
+  
+  <a href="https://www.youtube.com/@Ragedrp?sub_confirmation=1">
+    
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCaN9EfFhiKmx1sM36Q-deMw?style=for-the-badge&logo=youtube&color=4c20bd)
+
+  </a>
+</div></td>
+
+<td valign="top" width="40%"><div align="center">
+  
+### WakaTime
+  
+  <a href="https://wakatime.com/@rage">
+    
+[![wakatime](https://wakatime.com/badge/user/e21568d7-7bf8-46d7-8333-cdf10a8b27a4.svg?style=for-the-badge&color=4c20bd)](https://wakatime.com/@rage)
+
+  </a>
+</div></td>
+
+</tr></table>
+</div>
+
+<!-- Footer -->
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4c20bd&&section=footer" width="auto" />
+ </div>
