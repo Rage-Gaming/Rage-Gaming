@@ -63,7 +63,7 @@
 
 ### ☁️ **Cloud & DevOps**
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle Cloud" />
@@ -104,8 +104,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://discord.gg/B4HTP7n" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/813966990674493511" target="blank">
+    <img src="https://img.shields.io/badge/Discord_Profile-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+    <a href="https://discord.gg/dHsuQRpuYf" target="blank">
+    <img src="https://img.shields.io/badge/Discord_Server-f06a35?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
