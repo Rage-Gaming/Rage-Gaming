@@ -10,15 +10,13 @@
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
+## Github Stats
+
 <div align="center">
-  <img height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=Rage-Gaming&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" /> 
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rage-gaming&show_icons=true&locale=en&layout=compact&theme=midnight-purple" /> 
+<img height="300px" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Rage-Gaming&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" /> 
+<img height="300px" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rage-gaming&show_icons=true&locale=en&layout=compact&theme=midnight-purple" /> 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
